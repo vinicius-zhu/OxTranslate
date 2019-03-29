@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OxTranslate</string>
+    <string name="oxtranslate">OxTranslate</string>
+    <string name="digite_a_palavra_a_ser_traduzida">Digite a palavra a ser traduzida:</string>
+    <string name="traduzir">Traduzir</string>
+    <string name="traducao">Tradução:</string>
+</resources>
